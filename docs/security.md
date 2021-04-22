@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Security
-nav_order: 2
+nav_order: 3
 ---
 
 In March, 2012, a research paper[11] reported an extensive study on the security of social login mechanisms. The authors found 8 serious logic flaws in high-profile ID providers and relying party websites, such as OpenID (including Google ID and PayPal Access), Facebook, Janrain, Freelancer, FarmVille, and Sears.com. Because the researchers informed ID providers and relying party websites prior to public announcement of the discovery of the flaws, the vulnerabilities were corrected, and there have been no security breaches reported.[12]
