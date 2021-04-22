@@ -36,4 +36,4 @@ bundle install
 ## Adding Content
 All the content files should be added to the `docs` folder. There are two sample files `intro.md` and `security.md` provided. Delete these and create more files in the same format. The number in the `nav_order` field is the location of the file in the navigation bar. Set this number appropriately.
 
-For more info on navigation, see [this](https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/#excluding-pages).
+For more info on navigation, see [this](https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/).
