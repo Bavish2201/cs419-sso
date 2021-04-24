@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Features
+title: Flaws
 nav_order: 8
 ---
 
@@ -14,9 +14,11 @@ Flaws:
 * Provide for secure password and account management.
 * Mitigates brute-forcing and credentials harvesting.
 * Mitigates Man in The Middle Attacks (MiTM).
+
 ## Authorization Flaws
 * Flaws in Role-Based Access Controls (RBAC)
 * Flaws regarding horizontal and vertical privilege escalation & forced browsing.
+
 ## Session Management Flaws
 * Session cookies and authentication tokens unprotected (e.g. clear text) between client and server.
 * Missing session invalidation at idle-timeout and user logout.
