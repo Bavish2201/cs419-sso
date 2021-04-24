@@ -12,6 +12,8 @@ Single Sign On (SSO)
 
 SSO is an session user authentication Service which permits user to use his one set of credential to log in into multiple applications. This allows easier use of usernames password management. SSO is a part of FIM arrangement. (FIM- Federal Identity Management). SSO works by trust between Service Provider and Identity Provider. The Identity provider sends a Certificate to sign the identity information which the Service provider can be assured of that it is from a trusted source.
 
+<img src="sso_workflow.png"/>
+
 **Work FLow:**
 * User browse to Service Providers
 * Service provider sends a Token with some User information to identity Proivider
