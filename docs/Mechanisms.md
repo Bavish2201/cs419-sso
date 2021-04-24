@@ -2,6 +2,7 @@
 ---
 layout: default
 title: Single Sign-On Mechanisms
+nav_exclude: True
 nav_order: 2
 ---
 

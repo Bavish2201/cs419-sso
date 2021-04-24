@@ -1,10 +1,11 @@
 ---
 layout: default
-title: SINGLE SIGN ON (SSO) DISADVANTAGES
+title: Disadvantages
 nav_order: 6
 ---
 
-Disadvantages include: 
+Disadvantages of SSO
+===
 
 1. Using a single password increases the chances of password vulnerability
 2. When SSO fails, access to all related systems is lost

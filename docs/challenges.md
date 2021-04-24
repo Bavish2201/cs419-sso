@@ -1,11 +1,12 @@
 ---
 layout: default
-title: SSO’s challenges
+title: Challenges
 nav_order: 7
 ---
 
 
-SSO challenges include:
+Challenges of SSO
+===
 
 1. Extra-strong passwords must be enforced. If an SSO account is cracked, others under the same authentication can also be endangered.
 2. When SSO is down, access to all connected sites is stopped. This is a big reason to exercise great care in choosing an SSO system. It must be exceptionally reliable and plans should be in place for dealing with breakdowns.
