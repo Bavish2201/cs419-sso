@@ -3,7 +3,6 @@
 layout: default
 title: Single Sign-On Mechanisms
 nav_exclude: True
-nav_order: 2
 ---
 
 The SAP Mobile Platform Server OData proxy service supports the use of one or more single sign-on (SSO) mechanisms.

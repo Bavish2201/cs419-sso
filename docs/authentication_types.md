@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Types of Authentication
-nav_order: 4
+nav_order: 3
 ---
 
 Types of Authentication
